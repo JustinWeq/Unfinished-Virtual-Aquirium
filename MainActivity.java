@@ -11,7 +11,7 @@ import android.view.View;
  */
 public class MainActivity extends FragmentActivity {
 
-    /** /l
+    /**
      * called upon creation of the activity
      * @param savedInstanceState
      */
